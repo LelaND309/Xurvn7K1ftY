@@ -1,0 +1,7 @@
+!.eslintrc.js
+**/node_modules/**
+**/VendorLib/**
+**/flow-typed/**
+**/gen-nodejs/**
+**/build/**
+**/eclipse.jdt.ls/**
